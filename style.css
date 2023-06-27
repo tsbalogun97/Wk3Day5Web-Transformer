@@ -81,3 +81,8 @@ justify-content: space-evenly;
   border:solid black;
   width:60%
 }
+
+.polaroid {
+  height: 100%;
+  width: 100%;
+}
